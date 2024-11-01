@@ -1,0 +1,88 @@
+body
+{
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+  color: white;
+}
+
+.main
+  {
+  width: 500px;
+  height: 500px;
+  border: 1px solid #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.signUp
+{
+  display: flex;
+  gap: 20px;
+  height: 400px;
+  width: 400px;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.input
+{
+  width: 200px;
+  height: 30px;
+  border-radius: 8px;
+}
+
+.submitBtn
+{
+  width: 70px;
+  height: 30px;
+  border-radius: 8px;
+  background-color: rgb(90, 255, 90);
+}
+
+
+.hidden
+{
+  display: none;
+}
+
+
+.login
+{
+  width: 500px;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.username
+{
+  width: 200px;
+  height: 30px;
+  border-radius: 8px;
+}
+
+.password
+{
+  width: 200px;
+  height: 30px;
+  border-radius: 8px;
+}
+
+.loginBtn
+{
+  width: 50px;
+  height: 30px;
+  border-radius: 8px;
+  background-color: rgb(90, 255, 90);
+}
+
