@@ -1,0 +1,47 @@
+body
+{
+  background-color: black;
+}
+
+.main
+{
+  height: 90vh;
+  border: 1px solid #fff;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+.todoList
+{
+  margin-top: 6%;
+  width: 400px;
+  height: 300px;
+  border: 1px solid #fff;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 20px;
+  flex-direction: column;
+}
+
+.todoCpm
+{
+  margin-top: 20px;
+  height: 30px;
+  width: 230px;
+}
+
+.submitBtn
+{
+  margin-top: 20px;
+  height: 35px;
+}
+
+.list
+{
+  width: 100px;
+  height: 100px;
+  border: 1px solid #fff;
+}
