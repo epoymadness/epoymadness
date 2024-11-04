@@ -1,11 +1,23 @@
 
+var todoList =
+[{
+ act1: 'hello' 
+}]
+
+
 
 function showInput()
 {
   const valList = document.getElementById('todoList');
   var listed = valList.value;
+  todoList.push(listed);
+
+
+
   console.log(listed);
   createDiv(listed);
+  
+  
   valList.value = '';
 }
 
@@ -25,11 +37,20 @@ function createDiv(value)
   checkBox.onclick = checkbox;
   
 
-
   console.log(value);
   todos.classList.add('listLess');
   todos.classList.add('list');
-  todos.textContent = value;
+  // todos.textContent = value;
+
+  for (var i = 0; i < todoList.length; i++)
+  {
+    if ( i < todoList.length)
+    {
+      todos.textContent = todoList[i];
+      console.log('its working well');
+    }
+  }
+
 
   protoType.appendChild(todos);
   todos.appendChild(checkBox);
