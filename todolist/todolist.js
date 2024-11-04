@@ -13,13 +13,45 @@ function showInput()
 
 function createDiv(value)
 {
-  const div = document.createElement('div');
-  const listItem = document.getElementById('listItem');
-  div.classList.add('list');
+  const protoType = document.getElementById('protoType');
+  const todos = document.createElement('li');
+  const checkBox = document.createElement('input');
+  const dltBtn = document.createElement('input');
+  dltBtn.type = 'button';
+  dltBtn.id = 'dltList';
+  dltBtn.onlick = dltList;
+  checkBox.type = 'checkbox';
+  checkBox.id = 'checkd';
+  checkBox.onclick = checkbox;
+  
 
 
+  console.log(value);
+  todos.classList.add('listLess');
+  todos.classList.add('list');
+  todos.textContent = value;
 
-  listItem.appendChild(div);
+  protoType.appendChild(todos);
+  todos.appendChild(checkBox);
+  todos.appendChild(dltBtn); 
+  todos.id = 'noodles';
 }
 
 
+function checkbox()
+{
+  const checkBox = document.getElementById('checkd');
+  const todos = document.getElementById('noodles');
+
+  if (checkBox.checked == true)
+  {
+    todos.classList.remove('list');
+    todos.classList.add('checked');
+  }
+}
+
+
+function dltList()
+{
+  console.log('dltList');
+}
