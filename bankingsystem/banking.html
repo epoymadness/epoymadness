@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="banking.css">
+  </head>
+  <body>
+
+    <div class="main">
+      //div1 or sectiion1
+      <div class="userLogin" id="userLogin">
+        <input type="text" placeholder="username" id="userName">
+        <input type="password" placeholder="password" id="passWord">  
+        <input type="button" value="login" id="loginUser" onclick="nextSecOne()">  
+      </div>
+
+      <div class="secondSec" id="secondSec">
+        <div class="userBalance">
+        <label for="userBalance" class="label">BALANCE</label>
+        <input type="text" id="userBalance">
+        </div>
+
+        <div class="mainControl">
+          <h2 class="clientName">Jefferson Yabut</h2>
+          <input type="button" value="send cash">
+          <input type="button" value="logout">
+        </div>
+      </div>
+
+
+
+
+
+    </div>
+    
+
+
+
+    <script src="banking.js"></script>
+  </body>
+</html>
