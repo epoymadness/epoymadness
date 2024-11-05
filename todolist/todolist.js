@@ -1,8 +1,5 @@
 
-var todoList =
-[{
- act1: 'hello' 
-}]
+
 
 
 
@@ -10,13 +7,10 @@ function showInput()
 {
   const valList = document.getElementById('todoList');
   var listed = valList.value;
-  todoList.push(listed);
-
 
 
   console.log(listed);
   createDiv(listed);
-  
   
   valList.value = '';
 }
@@ -29,27 +23,27 @@ function createDiv(value)
   const todos = document.createElement('li');
   const checkBox = document.createElement('input');
   const dltBtn = document.createElement('input');
+
   dltBtn.type = 'button';
   dltBtn.id = 'dltList';
-  dltBtn.onlick = dltList;
+  dltBtn.onclick = function()
+  {
+    dltList(this);
+  }
+
+
   checkBox.type = 'checkbox';
   checkBox.id = 'checkd';
-  checkBox.onclick = checkbox;
+  checkBox.onclick = function()
+  {
+    checkbox(this);
+  };
   
 
   console.log(value);
   todos.classList.add('listLess');
   todos.classList.add('list');
-  // todos.textContent = value;
-
-  for (var i = 0; i < todoList.length; i++)
-  {
-    if ( i < todoList.length)
-    {
-      todos.textContent = todoList[i];
-      console.log('its working well');
-    }
-  }
+  todos.textContent = value;
 
 
   protoType.appendChild(todos);
@@ -59,20 +53,28 @@ function createDiv(value)
 }
 
 
-function checkbox()
-{
-  const checkBox = document.getElementById('checkd');
-  const todos = document.getElementById('noodles');
 
+function checkbox(checkBox)
+{
   if (checkBox.checked == true)
   {
-    todos.classList.remove('list');
-    todos.classList.add('checked');
+    checkBox.parentNode.classList.remove('list');
+    checkBox.parentNode.classList.add('checked');
+  } else
+  {
+    checkBox.parentNode.classList.remove('checked');
+    checkBox.parentNode.classList.add('list');
   }
 }
 
 
-function dltList()
+
+function dltList(input)
 {
-  console.log('dltList');
+  input.parentNode.remove();
 }
+
+
+      
+
+
