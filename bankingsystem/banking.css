@@ -56,6 +56,19 @@ body
   gap: 20px;
 }
 
+.displayCurrBal
+{
+  width: 250px;
+  height: 50px;
+  border: 1px solid #fff;
+  place-items: center;
+}
+
+.displayCurrBal p
+{
+  color: white ;
+}
+
 .mainControl
 {
   display: flex;
@@ -70,4 +83,35 @@ body
   color: white;
   padding: 0%;
   margin: 0%;
+}
+
+.thirdSec
+{
+  width: 500px;
+  height: 500px;
+  border: 1px solid white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.inputAmount
+{
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-bottom: 20%;
+}
+
+.identifySender
+{
+  margin-top: 20px;
+}
+
+.sendTo
+{
+  width: 145px;
 }
