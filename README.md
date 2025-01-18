@@ -1,4 +1,4 @@
-# 🤠 Dark Knight
+# 🧙‍♂️ Dark Knight
 
 **`Digital Creativity (Web Dev, Musics, Film)`**
 
@@ -6,7 +6,7 @@ Hi, i am epoymadness and interested in full stack development, i am where art an
 I trust with design first then build later. 
 
 
-### 🕶 Languages and Tools
+### 🧙‍♂️ Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
