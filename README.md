@@ -6,6 +6,10 @@ Hi, I am Epoymadness, and I'm interested in full-stack development. I believe in
 
 I dove into CS50 on YouTube, and it truly gave me a rock-solid foundation in programming, sparking my passion for coding. 
 
+<br clear="both">
+
+<h2 align="left">Tech Stack:</h2>
+
 ### 🧙‍♂️ Tech Stack
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
