@@ -5,7 +5,7 @@
 
 ###
 
-<h3 align="center">Hi, I am Epoymadness, and I'm interested in full-stack development. I believe in the intersection of art and technology. I trust in designing first and building later.</h3>
+<h3 align="center">Hey, I'm Epoymadness! I'm all about leveling up and constantly improving my skills in full-stack development. I see coding as an art, blending creativity with technology to build amazing things.</h3>
 <br clear="both">
 
 ###
