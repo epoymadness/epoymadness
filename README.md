@@ -1,10 +1,11 @@
-# 🧙‍♂️ Dark Knight
+# 🧙‍♂️ night wizard
 
 **`Digital Creativity (Web Dev, Musics, Film)`**
 
 Hi, i am epoymadness and interested in full stack development, i am where art and technology aligns.
-I trust with design first then build later. 
+I trust with design first then build later.
 
+I dove into CS50 on YouTube, and it truly gave me a rock-solid foundation in programming, sparking my passion for coding. 
 
 ### 🧙‍♂️ Languages and Tools
 
