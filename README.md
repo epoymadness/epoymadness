@@ -2,8 +2,7 @@
 
 **`Digital Creativity (Web Dev, Musics, Film)`**
 
-Hi, i am epoymadness and interested in full stack development, i am where art and technology aligns.
-I trust with design first then build later.
+Hi, I am Epoymadness, and I'm interested in full-stack development. I believe in the intersection of art and technology. I trust in designing first and building later.
 
 I dove into CS50 on YouTube, and it truly gave me a rock-solid foundation in programming, sparking my passion for coding. 
 
