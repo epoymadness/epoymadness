@@ -5,7 +5,7 @@
 
 ###
 
-<h3 align="center">Hey, I'm Epoymadness! I'm all about leveling up and constantly improving my skills in full-stack development. I see coding as an art, blending creativity with technology to build amazing things.</h3>
+<p align="center">Hey, I'm Epoymadness! I'm all about leveling up and constantly improving my skills in full-stack development. I see coding as an art, blending creativity with technology to build amazing things.</p>
 <br clear="both">
 
 ###
