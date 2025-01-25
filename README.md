@@ -1,4 +1,4 @@
-# 🧙 coding wiz
+no# 🧙 coding wiz
 
  <h6 align="center">"Keep leveling up"</h6>
 
@@ -36,5 +36,5 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<p align="center">When I was in 1st year college, I am not that interested in tech or web development. Late 1st year college when I hate myself for not knowing at least basics of programming. it begans in summer, Thought hit me that I really needed to study basics before anything else, so I study CS50, CS50's really a game changer!! felt like every programming memes in social media platforms is much understandable now than before. Every memes that I don't understand fueled me, and use that fuel to know more, dive more, explore more, fueled by curiosity. and that's how my journey starts!!</p>
+<p align="center">When I was in 1st year college, I am not that interested in tech or web development. Late 1st year college when I hate myself for not knowing at least basics of programming. it begans in summer, Thought hit me that I really needed to study basics before anything else, so I study CS50, CS50's really a game changer, Gives you a rock solid foundation. Felt like every programming memes in social media platforms is much understandable now than before. Every memes that I don't understand fueled me, and use that fuel to know more, dive more, explore more, fueled by curiosity. and that's how my journey starts!!</p>
 
