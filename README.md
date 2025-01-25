@@ -1,4 +1,4 @@
-no# 🧙 coding wiz
+# 🧙 coding wiz
 
  <h6 align="center">"Keep leveling up"</h6>
 
