@@ -36,5 +36,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<p align="center">When I was in 1st year college, I am not that interested in tech or web development. Late 1st year college when I hate myself for not knowing at least basics of programming. it begans in summer, Thought hit me that I really needed to study basics before anything else, so I study CS50, CS50's really a game changer, Gives you a rock solid foundation. Felt like every programming memes in social media platforms is much understandable now than before. Every memes that I don't understand fueled me, and use that fuel to know more, dive more, explore more, fueled by curiosity. and that's how my journey starts!!</p>
+<p align="center">When I was in my first year of college, I wasn't that interested in tech or web development. It wasn’t until late in my first year that I started to hate myself for not even knowing the basics of programming. It all began during the summer when it hit me—I really needed to study the fundamentals before anything else.
+So, I decided to take CS50, and it was truly a game-changer. It gave me a rock-solid foundation, and suddenly, all those programming memes I used to see on social media started making sense. Every meme I didn't understand before fueled my curiosity, pushing me to learn more, dive deeper, and explore further.
+And that's how my journey started!</p>
 
