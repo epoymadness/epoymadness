@@ -1,6 +1,6 @@
 # 🧙 coding wiz
 
- <h6 align="center">"aim high, strive on"</h6>
+ <h6 align="center">"Aim High, Strive On"</h6>
 
 
 ###
