@@ -7,11 +7,6 @@
 
 ###
 
-<p align="center">Hey, I'm Epoymadness! I'm all about leveling up and constantly improving my skills in full-stack development. I see coding as an art, blending creativity with technology to build amazing things.</p>
-<br clear="both">
-
-###
-
 ### 🧙 Wands:
 <div style="display: flex; align-items: center; gap: 10px;">
 <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
@@ -30,11 +25,8 @@
 </div>
 
 ###
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=epoymadness&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffersonyabut&show_icons=true&theme=onedark&locale=en&layout=compact" alt="jeffersonyabut" /></p>
 ---
-[![](https://visitcount.itsvg.in/api?id=epoymadness&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
